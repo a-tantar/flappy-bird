@@ -26,7 +26,6 @@ function Pipe() {
 
     }
 
-
     this.show = function () {
         fill(255);
         if (this.hightlight) {
